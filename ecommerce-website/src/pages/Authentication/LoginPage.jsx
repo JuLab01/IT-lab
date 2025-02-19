@@ -22,7 +22,7 @@ export default function LoginPage() {
           {/* <!-- Submit Button --> */}
           <button
             type="submit"
-            class="w-full bg-blue-500 text-white py-2 rounded hover:bg-blue-600 transition-colors"
+            class="w-full bg-blue-500 text-white py-2 rounded hover:bg-blue-600 transition-colors cursor-pointer"
           >
             Sign Up
           </button>
